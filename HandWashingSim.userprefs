@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Leap Motion/Leap Controller/Scripts/Leap Objects/LeapPointableObject.cs">
+    <Files>
+      <File FileName="Assets/Leap Motion/Leap Controller/Scripts/Leap Objects/LeapPointableObject.cs" Line="51" Column="3" />
+      <File FileName="Assets/Leap Motion/Leap Controller/Scripts/Leap Hand States/LeapPointableState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Leap Motion/Leap Controller/Scripts/Leap Hand States/LeapGodHandState.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Leap Motion" expanded="True">
+              <Node name="Leap Controller" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Leap Objects" expanded="True">
+                    <Node name="LeapPointableObject.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
